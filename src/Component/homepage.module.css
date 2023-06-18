@@ -1,0 +1,11 @@
+.table{
+    padding: 3rem 30rem;
+}
+.card{
+    text-align: center;
+    background: rgb(185, 99, 99);
+    padding: 3rem 3rem;
+}
+.card h1{
+    font-size: 300%;
+}
